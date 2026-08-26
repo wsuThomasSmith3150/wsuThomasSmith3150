@@ -5,6 +5,7 @@ I'm a Computer Science student skilled in HTML, CSS, JS, C++, and C# with hands-
 
 # Previous Work Experiences
 - Huber Heights City School District - IT Intern
+
 Used extensive troubleshooting methods to identify and resolve hardware issues on laptops, desktop computers, and Chromebooks. Contributed greatly to the imaging and installation of new desktop and laptop computers at several schools in the district, allowing staff and student technology to be up-to-date. Sped up IT logistics by reorganizing the district's IT warehouse and Chromebook cart systems, improving device inventory management and distribution.
 
 # Currently Working On
