@@ -1,7 +1,7 @@
 Hi, I'm Thomas Smith. I'm 22 years old, born and raised in Dayton, Ohio. This is my GitHub.
 
 # About Me
-I'm a Computer Science student skilled in HTML, CSS, JS, C++, and C# with hands-on IT experience. Proven in project management, hardware troubleshooting, and working under pressure. Eager to build innovative IT solutions.
+I'm a Computer Science major and student skilled in HTML, CSS, JS, C++, and C# with hands-on IT experience.
 
 # Previous Work Experiences
 - Huber Heights City School District - IT Intern
