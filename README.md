@@ -3,7 +3,7 @@ Hi, I'm Thomas Smith. I'm 22 years old, born and raised in Dayton, Ohio. This is
 # About Me
 I'm a Computer Science major and student at Wright State University. My cumulative GPA is 3.7 while I've been attending classes here.
 
-# Recent Work Experience
+# Previous Work Experience
 My previous work experience was an IT Internship with the Huber Heights City School District. There I used extensive troubleshooting methods to identify and resolve hardware issues on laptops, desktop computers, and Chromebooks. This was among many other duties, giving me hands-on IT experience.
 
 # Languages & Tools
