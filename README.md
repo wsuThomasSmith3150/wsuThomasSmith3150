@@ -5,6 +5,6 @@ I'm a Computer Science major and student skilled in HTML, CSS, JS, C++, Assembly
 
 # Currently Working On
 I am currently working on the following projects:
-- Game development with **Unity**
+- Game development with **Unity**. Lorem Ipsum.
 - Learning **Python**. As I'm a beginner to Python, I've been scouring the web for free resources that familiarize me with the basic fundamentals, such as variables, loops, functions, simple data structures, and casting. In learning using these free resources, I'm building basic programs to help me learn these concepts, bit by bit.
-- Learning 3D Modelling and Animation in **Blender**
+- Learning 3D Modelling and Animation in **Blender**. Lorem Ipsum.
