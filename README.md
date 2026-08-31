@@ -26,6 +26,8 @@ I am currently working on the following projects:
 
 # Connect With Me!
 <p>
-    <a><a href="https://www.linkedin.com/in/thomas-smith-88a330249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a><a href="mailto:smith.3150@wright.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="wsuThomasSmith3150 /></a>
+    <a href="https://www.linkedin.com/in/thomas-smith-88a330249/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:smith.3150@wright.edu"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
 </p>
